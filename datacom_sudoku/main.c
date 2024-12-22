@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Data communication sudoku project\n");
     return 0;
 }
